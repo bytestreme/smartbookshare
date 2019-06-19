@@ -6,7 +6,6 @@ TODO: Refactor + minor fixes
 ![enter image description here](https://i.ibb.co/JQFh167/Screenshot-20190317-114837.jpg)
 
 ![enter image description here](https://i.ibb.co/ykW9nks/Screenshot-20190317-115041.jpg)
-![enter image description here](https://i.ibb.co/QXYQp5r/Screenshot-20190317-114910-Samsung-Experience-Home.jpg)
 
 ![enter image description here](https://i.ibb.co/M25Y0yh/Screenshot-20190328-200244.jpg)
 
