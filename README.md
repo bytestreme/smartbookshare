@@ -1,5 +1,6 @@
 # SmartBookShare
-
+Mobile application to keep track of books collection owned by a group. Book information
+can be filled automatically by scanning the book’s ISBN bar code with the device camera.
 # Screenshots
 ![enter image description here](https://i.ibb.co/9ZZ5YHy/Screenshot-20190317-112351.jpg)
 ![enter image description here](https://i.ibb.co/JQFh167/Screenshot-20190317-114837.jpg)
